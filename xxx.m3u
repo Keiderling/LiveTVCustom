@@ -1,0 +1,120 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]»»------------------------- 12-05-2015 -------------------------««[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 12-05-2015--[/COLOR]  
+
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“ADULTS XXX”,[COLOR pink]»»---------------------------- ADULTS XXX ----------------------------««[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Hustler HD (buffer)
+http://185.38.12.20:8088/hustler_hd/
+
+#EXTINF:-1,Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+
+#EXTINF:-1,Station
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+
+#EXTINF:-1,Score Group
+http://188.165.220.116:8081/live/20/playlist.m3u8
+
+#EXTINF:-1,SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+
+#EXTINF:0, TEMPTATION
+http://46.47.7.160:1234/udp/224.244.244.97:19993
+ 
+#EXTINF:0, Nightclub
+http://46.47.7.160:1234/udp/224.244.244.199:19993
+
+#EXTINF:-1,Frenchlover
+http://95.170.186.178:7781/udp/239.255.4.4:1234
+
+#EXTINF:-1,Passiexxx
+http://publish.thewebstream.co:1935/leved/_definst_/passiexxx/playlist.m3u8
+
+#EXTINF:-1,Wepa
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/media-b1100000_2398.m3u8
+
+#EXTINF:-1,Wepa 2
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/media-b1100000_2400.m3u8
+
+#EXTINF:-1,Private
+http://185.38.12.20:8088/private/
+
+#EXTINF:-1,ttv11 china
+rtmp://kv3.ts33.net/tv/ttv11
+
+#EXTINF:-1,ttv12 china
+rtmp://149.3.141.210:1935/tv/ttv12
+
+#EXTINF:-1, XXX Asia 1
+http://59.120.43.181:8081
+
+#EXTINF:-1, XXX Asia 2
+http://59.120.43.181:8082
+
+#EXTINF:-1,XXX Asia 3
+http://59.120.43.181:8083
+
+#EXTINF:-1,XXX Asia 4
+http://59.120.43.181:8084
+
+#EXTINF:-1,XXX Asia 5
+http://59.120.43.181:8085
+
+#EXTINF:-1,XXX Asia 6
+http://59.120.43.181:8086
+
+#EXTINF:-1,XXX Asia 7
+http://59.120.43.181:8087
+
+#EXTINF:-1,Power Girls TV HD
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+ 
+#EXTINF:-1,Bollywood Bikini TV
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1, Olala
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+ 
+#EXTINF:-1, Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+
+#EXTINF:0, Russian Night (stream 2)
+http://46.47.7.160:1234/udp/224.244.244.200:19993
+
+#EXTINF:0,ADULT TV 1
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ 
+#EXTINF:-1, Blue Hustler
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+
+#EXTINF:0,PLAY BOY TV
+http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1, Playboy TV
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+ 
+#EXTINF:-1, XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+
+#EXTINF:-1,Adult:CS Sex +18 ADULT mmsh
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1,BABE_XXX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1,Adult:Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+
+#EXTINF:-1,Adult:Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1,Adult:Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+
+#EXTINF:-1,Adult:Babestation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+
+#EXTINF:-1,Adult:Bella Club
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
